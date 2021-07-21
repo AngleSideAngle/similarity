@@ -1,3 +1,9 @@
+# test file
+stuff
+
+# macos finder
+.DS_Store
+
 # Prerequisites
 *.d
 
